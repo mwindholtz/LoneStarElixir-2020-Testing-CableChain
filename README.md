@@ -1,5 +1,16 @@
+# Testing: Cable and Chain
+These examples explained are in [Testing: Cable and Chain](https://www.linkedin.com/pulse/testing-cable-chain-mark-windholtz/)
+
 # Links
 
+Run the tests
+  * Install dependencies with `mix deps.get`
+  * Create and migrate your database with `mix ecto.setup`
+  * Run tests `mix test`
+
+
+NOTE: Phoenix server not currently used in these examples.
+(but I hope to add Phoenix exaples in the future)
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
